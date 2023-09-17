@@ -20,7 +20,7 @@ The MNIST dataset is a widely used collection of 28x28 pixel grayscale images of
 
 ## Usage
 
-1. Open the Jupyter Notebook `Digit_Recognizer_CNN.ipynb`:
+1. Open the Jupyter Notebook `Digit_Recognizer.ipynb`:
 
    ```bash
-   jupyter notebook Digit_Recognizer_CNN.ipynb
+   jupyter notebook Digit_Recognizer.ipynb
